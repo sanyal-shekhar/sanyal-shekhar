@@ -165,17 +165,17 @@
 
 <hr/>
 
+
 <!-- GITHUB STATS & STREAK -->
 <h3>📊 GitHub Activity & Consistency</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanyal-shekhar&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=sanyal-shekhar&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanyal-shekhar&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanyal-shekhar&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
-  <p><b>Clean • Analyze • Visualize • Repeat 🚀</b></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanyal-shekhar&theme=tokyonight" width="95%" />
 </div>
