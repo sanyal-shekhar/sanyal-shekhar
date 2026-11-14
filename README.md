@@ -1,22 +1,22 @@
 <!-- HEADER BANNER & TYPING ANIMATION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi,%20I'm%20[Your%20Name]!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20SQL%20%E2%80%A2%20Python%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Excel&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hi,%20I'm%20Sanyal%20Shekhar!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20%7C%20SQL%20%E2%80%A2%20Python%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Excel&descAlignY=58&descSize=18" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Actionable+Insights+%F0%9F%93%8A;Building+Interactive+Dashboards+%26+KPI+Reports+%F0%9F%93%88;Learning+SQL%2C+Python%2C+Excel+%26+Power+BI+From+Scratch+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <p>
-    <a href="https://www.linkedin.com/in/your-linkedin-id/">
+    <a href="https://www.linkedin.com/in/sanyal-shekhar/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.kaggle.com/yourusername">
+    <a href="https://www.kaggle.com/sanyalshekhar">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
     </a>
     <a href="mailto:your.email@example.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=sanyal-shekhar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
 
@@ -28,7 +28,7 @@
     <td width="60%" valign="top">
       <h3>⚡ About Me</h3>
       <p>
-        I am an aspiring <b>Data Analyst</b> starting my journey from zero, passionate about uncovering patterns in messy data and solving real-world business problems.
+        Hi! I'm <b>Sanyal Shekhar</b>, an aspiring <b>Data Analyst</b> starting my journey from zero, passionate about uncovering patterns in messy data and solving real-world business problems.
       </p>
       <ul>
         <li>🔭 <b>Current Focus:</b> Excel, SQL, Power BI, and Python (Pandas & NumPy).</li>
@@ -86,7 +86,7 @@
 
 <hr/>
 
-<!-- EXTRA ELEMENT: INTERACTIVE DROPDOWN ROADMAP -->
+<!-- INTERACTIVE DROPDOWN ROADMAP -->
 <h3>🗺️ My Data Analyst Learning Tracker</h3>
 <details open>
   <summary><b>Click to expand / collapse my skill checklist</b></summary>
@@ -169,8 +169,8 @@
 <h3>📊 GitHub Activity & Consistency</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanyal-shekhar&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=sanyal-shekhar&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <br/>
